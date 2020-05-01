@@ -1,0 +1,184 @@
+/* GENERAL */
+
+*
+{
+    margin:0;
+    padding:0;
+}
+
+body
+{
+
+    font-family: 'Open Sans', sans-serif!important;
+
+}
+
+h1 { 
+
+    font-family: 'Crimson Text', serif!important;
+    text-align: center;
+    font-size: 60px!important;
+    padding: 20px 0px!important;
+    color: rgb(116,97,83)!important;
+
+}
+
+
+h3 { 
+    font-family: 'Crimson Text', serif!important;
+    padding: 10px 0px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+
+h5 { 
+
+    font-size: 20px!important;
+
+    /* font-weight: bold!important; */
+    /* color: rgb(116,97,83)!important; */
+ 
+}
+
+
+ul
+{
+    list-style: none;
+}
+
+a
+{
+    text-decoration: none;
+
+}
+
+
+p 
+{
+    line-height: 25px;
+    padding: 0px 0px 10px 0px;
+    margin: 0px!important;
+    text-align: justify;
+
+}
+
+
+
+
+section
+{
+    padding: 50px 0;
+}
+
+.section-divider
+{
+    width: 100px;
+    height: 2px;
+    background-color: rgb(116,97,83);
+    margin:20px auto;
+}
+
+/* MENU */
+
+
+
+/* HEADER */
+
+header
+{
+    text-align: center ;
+    padding-top: 5px;
+}
+
+
+/* MAIN IMAGE */
+
+#MainImage
+{
+
+    background: url('images/Slide1.jpg') center no-repeat ;
+    background-size: auto 100% ;
+    
+}
+
+/* LE DOMAINE */
+
+
+
+/* MAIN IMAGE 2*/
+
+#MainImage2
+{
+    background: url('images/Slide2.jpg') center no-repeat ;
+    background-size: auto 100% ;
+
+}
+
+/* LES VINS */
+
+
+
+
+/* MAIN IMAGE 3*/
+
+#MainImage3
+{
+    background: url('images/Slide3.jpg') center no-repeat ;
+    background-size: auto 100% ;
+}
+
+/* BIOLOGIE */
+#Biologie
+{
+
+}
+
+
+
+/* CONTACT */
+
+#Contact
+{
+    background-color: rgb(116,97,83) ;
+    color: white!important;
+}
+
+#Contact h1
+{
+
+    color: white!important;
+}
+/* FOOTER */
+
+
+footer
+{
+    /* background-color: rgb(116,97,83); */
+    background-color: #333;
+    height: 40px;
+}
+
+footer nav
+{
+    padding-top: 5px;
+
+}
+
+footer nav ul li
+{
+    display: inline-block;
+    font-weight: normal;
+    color: whitesmoke;
+    font-size: 15px;
+
+}
+
+footer nav ul li a
+{
+    font-weight: normal;
+    font-size: 15px;
+    color: whitesmoke;
+
+}
